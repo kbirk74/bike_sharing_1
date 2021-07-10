@@ -1,11 +1,11 @@
 # Citi Bike Analysis. 
 
-#Overview of the analysis: The purpose of the analysis is to analyze the current ride share program (Citi Bike) operating in New York City and determine if a similar program would be viable in Des Moines Iowa. Visualization and results will be used to illustrate and pitch a business plan to possible investors in the Iowa start up. 
+# Overview of the analysis: The purpose of the analysis is to analyze the current ride share program (Citi Bike) operating in New York City and determine if a similar program would be viable in Des Moines Iowa. Visualization and results will be used to illustrate and pitch a business plan to possible investors in the Iowa start up. 
 
-#Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+# Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
-Analysis 1 - breaks out the existing data into  trip duration by all riders it showed that the tops per rider peak at 5+ minutes and decreased  from there as the duration the the ride gets longer, there were less than 2000 rides that lasted longer than 1 hr. The conclusion draw from this data is that citi bike is used locally ad a commuting option vs other mass transit option offered in NYC.  Typical rides in the city were between 5-20 minuets which would be the time it take a get to a different part of the city for day to tay activities. Rides that are longer then 30 minutes could in fact be people on holiday and riding around the city sites. 
+Analysis 1 - breaks out the existing data into  trip duration by all riders it showed that the tops per rider peak at 5+ minutes and decreased  from there as the duration the the ride gets longer, there were less than 2000 rides that lasted longer than 1 hr. The conclusion draw from this data is that citi bike is used locally ad a commuting option vs other mass transit option offered in NYC.  Typical rides in the city were between 5-20 minuets which would be the time it take a get to a different part of the city for day to tay activities. Rides that are longer than 30 minutes could in fact be people on holiday and riding around the city sites. 
 
 Analysis 2 -  Takes the data from the first analysis and break it down by gender. The conclusion from the data is the program is used more by men than women. The duration profile is similar but the number or rides taken my men is materially larger. 
 

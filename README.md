@@ -18,7 +18,7 @@ Analysis 5 - Highlight the usage by Subscribers vs pay as you go customers. The 
 
 Analysis 5-6 - These visulization show the prime starting and stopping spots in the program. The continue to validate the concept of commuting as most location are in neighborhood and business districts with in the idle of Manhattan. While some activity is seen in Williamsburg and down town Brooklyn  the majority is from Central Park south. The dots on the graph are scaled to show popularity of a sight the larger and darker a docking location the more utilized it is. The charts for Start and stop are similar indicating round trips from a a location. 
 
-##Conclusion:
+## Conclusion:
 
 The program is currently being utilized as a commuting option for people living with in a close distance to their destinations. Longer commutes tend to favor other mass transit options. The program is also more popular with men than women. Based on utilization in NYC the program would want to explore areas in Des Moines that have large population living near the business district. Marketing plan should target Male's more than females. 
 
